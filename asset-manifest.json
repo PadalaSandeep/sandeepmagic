@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sandeepmagic/static/css/main.6fc53848.css",
+    "main.js": "/sandeepmagic/static/js/main.48401ff3.js",
+    "static/js/453.91da1c43.chunk.js": "/sandeepmagic/static/js/453.91da1c43.chunk.js",
+    "static/media/kushi.mp3": "/sandeepmagic/static/media/kushi.86e62c44e26045556df9.mp3",
+    "static/media/hearts.jpg": "/sandeepmagic/static/media/hearts.274ff4cb960040330a27.jpg",
+    "index.html": "/sandeepmagic/index.html",
+    "main.6fc53848.css.map": "/sandeepmagic/static/css/main.6fc53848.css.map",
+    "main.48401ff3.js.map": "/sandeepmagic/static/js/main.48401ff3.js.map",
+    "453.91da1c43.chunk.js.map": "/sandeepmagic/static/js/453.91da1c43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc53848.css",
+    "static/js/main.48401ff3.js"
+  ]
+}
